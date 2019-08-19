@@ -1,3 +1,5 @@
+'use strict';
+
 function Card(id, name) {
   	var self = this;
 

@@ -1,3 +1,5 @@
+'use strict';
+
 function Column(id, name) {
     var self = this;
 
