@@ -1,5 +1,3 @@
-'use strict';
-
 var baseUrl = 'https://kodilla.com/pl/bootcamp-api';
 var myHeaders = {
     'X-Client-Id': '4368',
@@ -40,12 +38,3 @@ function setupCards(col, cards) {
         col.addCard(cardObj);
     });
 }
-
-
-
-
-
-
-
-
-

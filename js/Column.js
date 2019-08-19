@@ -1,5 +1,3 @@
-'use strict';
-
 function Column(id, name) {
     var self = this;
 
@@ -38,7 +36,6 @@ function Column(id, name) {
         }
     });
 }
-
 
 Column.prototype = {
     addCard: function (card) {
